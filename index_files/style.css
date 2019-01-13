@@ -159,11 +159,11 @@ input[type="submit"],input[type="reset"],.agileits_mail_grid_lft_grid1 ul li a,.
 	font-size: 5em;
 }
 .w3agile_banner_info a{
-	color:#FFD900;
+	color:#ffffff;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 14px;
-    letter-spacing: 8px;
+    font-size: 30px;
+    letter-spacing: 1px;
 }
 .scroll-down {
   width: 22.5px;
